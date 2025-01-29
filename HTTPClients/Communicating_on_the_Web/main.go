@@ -12,8 +12,6 @@ func main() {
 	}
 
 	// Don't edit above this line
-
-	// ?
 	// Convert byte slice to string
 	issuesStr := string(issues)
 
